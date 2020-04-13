@@ -5,7 +5,7 @@ Megan Mai, DH 150
 I aim to redesign goodreads and Velvetyne's full-view font page. Specifically, the goodreads page need to be simplified/modularized. There is too much information conveyed all at once on one page; there are more options than any user would need to see all at once. There should be only a few navigation options that would encapsluate other options (logically categorized). On the other hand, velvetyne's page needs a more straightfoward navigation for the full-view of the font. It is not clear what the user needs to do to download the font, edit the example text, or view the text in full.
 ## Goodreads Page                                  
 ![](goodreadssc.png)
-<a href="https://www.goodreads.com/" target="_blank"> </a>
+https://www.goodreads.com/
 ### Description
 Goodreads is a book tracker/online bookclub social media platform. It is a way for users to track their progress and find new reads. 
 ### Overall Evaluation
