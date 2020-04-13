@@ -50,8 +50,34 @@ Good reads does not provide good documentation, seemlying on account of the fact
 ## Velvetyne Page  
 ![](velvetyne2sc.png)
 ![](velvetynesc.png)
-### Description
-### Overall Evaluation
-### Heuristic Evaluation
 
+### Description
+Velvetyne is a non-profit repository of fonts and typefaces. Stylistically, there is deliberate chaos, and the usability of the website often is comprimised to execute this aesthetic. However, certain features are quite inaccessible not as a result of the chaotic style of the website, and can be solved without compromising the overall aesthetic.
+### Overall Evaluation
+Despite it's appearance, Velvetyne is a decently navigatable website, despite its garish appearance. Although the tacky and busy look of the site is deliberate, there are certain aspects of the website that should still be streamline and elegant. The user must be able to find out how to view the text in full and download it as easily as possible. 
+### Heuristic Evaluation
+Velvetyne fails to maintain the visibility of system status in the few instances that it is need. Since the page is relative simple, there is not much that needs to be kept track of. In typical fashion, any button that is selected triggers an animation or a change in appearance indicating selection. For some selections, it is a strobe effect, for others it simply inverts the color:
+Perhaps it would be good to make the selection animation consistent among all buttons.
+# 
+As the website is not the type of page to be accessed by the masses, Velvetyne's match between the system and the real world is appropriate given the circumstances. There exists no excessively niche jargon, and the language is simply-put. The download button says 'download', etc.
+# 
+There is no specific feature that supports undo and redo; and the extent of it's implemetation is just that after viewing a text in full, one can return to the prior page at the same point in the catalogue as they were before. In that sense, scrolling through the list and testing the fonts in full can be tedious, as there isn't a quickview to see the entire typeface.
+#
+Within the website, Velvetyne follows very consistent layouts and operations. Each font is presented identically, with the same functions of download, view sample text, and view and full.
+#
+There are no measures taken for error prevention. When downloading a font, which can be confusing and convoluting, the user just presses the button, and then the file is downloaded. Additionally, when the same font is downloaded twice there is no indication that the user is creating a duplicate.
+#
+Velvetyne falls short in Recognition, particularly because one can only download and examine one font at time. It would be extremely helpful to have a feature that displays previously view fonts, or a 'bag' like feature where the user can gather all fonts of interest in one group to be examined comparatively.
+#
+Again, the flexibility of the website would greatly increase with the addition of a feature that allowed the user to gather and compare fonts alongside each other. 
+#
+Velvetyne certainly does not adhere to minimalist guidelines, however this is deliberate. The page is very visually busy but in reality three things are presented: examples, fonts, and the top navigation bar. Improvements can be made to optimize the layout, but it really isn't as bad as it may seem.
+#
+Velvetyne offers no error recovery because there aren't many errors to make; at least there aren't any errors that are objectively wrong. Users may hit the wrong font or tab but there is no way for the website to identify it as mistake navigation.
+#
+Velvetyne could seriously benefit from thorough documentation with it's busy and complicated interface. There are no clear indicators of what is the font name and what is the example text and thus it is really hard to users to find out how to view the font in full text. Velvetyne also does not have a help page.
+## Severity Ranking 
+3: Recognition need improvements. Make it so users do not need to memorize/open separate tabs to compare two texts of interest.
+2: In terms of forgivenss, an undo redo-like solution could be implemented where the user looks at the font in a quickview module before proceeding to a full view so as to not immediately leave the browsing page.
+1: Velvetyne is in need of a help page.
 
