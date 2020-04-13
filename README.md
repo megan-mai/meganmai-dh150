@@ -67,7 +67,8 @@ Within the website, Velvetyne follows very consistent layouts and operations. Ea
 #
 There are no measures taken for error prevention. When downloading a font, which can be confusing and convoluting, the user just presses the button, and then the file is downloaded. Additionally, when the same font is downloaded twice there is no indication that the user is creating a duplicate.
 #
-Velvetyne falls short in Recognition, particularly because one can only download and examine one font at time. It would be extremely helpful to have a feature that displays previously view fonts, or a 'bag' like feature where the user can gather all fonts of interest in one group to be examined comparatively.
+Velvetyne falls short in Recognition, particularly because one can only download and examine one font at time. It would be extremely helpful to have a feature that displays previously view fonts, or a 'bag' like feature where the user can gather all fonts of interest in one group to be examined comparatively. However, Velvetyne allows the user to customize example text for it to be displated across all fonts:
+
 #
 Again, the flexibility of the website would greatly increase with the addition of a feature that allowed the user to gather and compare fonts alongside each other. 
 #
@@ -78,6 +79,8 @@ Velvetyne offers no error recovery because there aren't many errors to make; at 
 Velvetyne could seriously benefit from thorough documentation with it's busy and complicated interface. There are no clear indicators of what is the font name and what is the example text and thus it is really hard to users to find out how to view the font in full text. Velvetyne also does not have a help page.
 ## Severity Ranking 
 3: Recognition need improvements. Make it so users do not need to memorize/open separate tabs to compare two texts of interest.
+#
 2: In terms of forgivenss, an undo redo-like solution could be implemented where the user looks at the font in a quickview module before proceeding to a full view so as to not immediately leave the browsing page.
+#
 1: Velvetyne is in need of a help page.
 
