@@ -41,6 +41,10 @@ Error recognition in implemented when the user tries to set the starting date of
 ![](error.png)
 #
 Good reads does not provide good documentation, seemlying on account of the fact that much of the website is displayed plain in sigh on every page. Nevertheless, there are no intial directions on how to operate the platform, which, despite its transparency, is still quite difficult to navigate.
+### Severity Ranking 
+3: Aesthetic and minimalist design. The website is in sore need of simplification. There is too much information on the page, and while the user has many options ot choose, bring, this can confuse and distract user intention, and is also unsightly. The website would improve greatly with a more modular design, with only a few option a page, each option encapsulating further options.
+2: The 'add book' feature violates user control and freedom and error prevention. When deep in browsing books, it is very irritating having to return to my shelf to remove accidentally added books, and is a significant detour in browsing for new books. 
+1: Goodreads would benefit from proper documentation. The addition of guidelines would make an already straight foward website even easier to navigate.
 
 
 ## Velvetyne Page  
