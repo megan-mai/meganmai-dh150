@@ -68,7 +68,8 @@ Within the website, Velvetyne follows very consistent layouts and operations. Ea
 There are no measures taken for error prevention. When downloading a font, which can be confusing and convoluting, the user just presses the button, and then the file is downloaded. Additionally, when the same font is downloaded twice there is no indication that the user is creating a duplicate.
 #
 Velvetyne falls short in Recognition, particularly because one can only download and examine one font at time. It would be extremely helpful to have a feature that displays previously view fonts, or a 'bag' like feature where the user can gather all fonts of interest in one group to be examined comparatively. However, Velvetyne allows the user to customize example text for it to be displated across all fonts:
-
+#
+![](mmdh150.png)
 #
 Again, the flexibility of the website would greatly increase with the addition of a feature that allowed the user to gather and compare fonts alongside each other. 
 #
