@@ -28,10 +28,15 @@ In terms of supporting undo and redo, readers are prone to accidentally adding b
 ![](button2.png)
 #
 The consistency and standards of Goodreads are good. The terminology used is relatively straightforward, for example, read books are labeled under the tab 'read', and in-progress books are listed as 'currently reading'.
+#
 The prevalence of the 'add book' button on the website also contributes to a lack of error prevention. There are no second checks when the user adds a book. This can lead to an accumlation of accidentally added books.
+#
 Goodreads handles recognition well. Next to each category of book (read, unread, etc) there is a count indicating how many books are in the category. Users will know if the category has been successfully updated. 
+#
 The effeciency of use of Goodreads isn't necessarily bad; there are no tailored shortcuts because all navigation options are presented on the page, giving the user easy access to most actions while also crowding the space.
+#
 The primary violation is in regards to the heuristic of aesthetic and minimalist design. The page is flooded with extraneous and non-vital information. There are several seasonal events that could be allocated under one tab, as well as the option to plan, update, and list any reads.
+#
 Error recognition in implemented when the user tries to set the starting date of reading a book to before the finish date. The website notifies them as such:
 #
 ![](error.png)
