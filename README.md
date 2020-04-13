@@ -11,11 +11,17 @@ Goodreads is a book tracker/online bookclub social media platform. It is a way f
 As pictured above, there are many seasonal events and features that are on display at all times on every page for the user to see. Despite it's consistent presence, I believe this may spur users to actively ignore these often unwarranted suggestions. Additionally, options to plan a reading list, update your profile on what you are reading, and a list of books in progress are also displayed on the same page. 
 ### Heuristic Evaluation
 Goodreads does a decent job of maintaining visibility of system status. Users know what tab they are on by checking the tab list on the left:
+#
 ![](bookshelf.png)
+#
 And looking for the grey text.
 This page does fall short in matching the system with the real world, however, because there are two symbols indicating some type of communication: there is an envelope for messaging, and message bubbles for discussion board. Both symbols are used interchangaeably to indicate messaging systems on other platforms, and it takes a bit of experience to tell what does what.
+#
 ![](envelope.png)	
+#
 ![](message.png)
+# 
+
 In terms of supporting undo and redo, readers are prone to accidentally adding book to their list due to high presence of 'add book' buttons. When a book is added, the user must go to an entirely separate page, relocate the book added, and then remove it from their's profile.
 # 
 ![](button1.png)
@@ -27,7 +33,9 @@ Goodreads handles recognition well. Next to each category of book (read, unread,
 The effeciency of use of Goodreads isn't necessarily bad; there are no tailored shortcuts because all navigation options are presented on the page, giving the user easy access to most actions while also crowding the space.
 The primary violation is in regards to the heuristic of aesthetic and minimalist design. The page is flooded with extraneous and non-vital information. There are several seasonal events that could be allocated under one tab, as well as the option to plan, update, and list any reads.
 Error recognition in implemented when the user tries to set the starting date of reading a book to before the finish date. The website notifies them as such:
+#
 ![](error.png)
+#
 Good reads does not provide good documentation, seemlying on account of the fact that much of the website is displayed plain in sigh on every page. Nevertheless, there are no intial directions on how to operate the platform, which, despite its transparency, is still quite difficult to navigate.
 
 
