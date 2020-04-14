@@ -12,10 +12,9 @@ Goodreads is a book tracker/online bookclub social media platform. It is a way f
 As pictured above, there are many seasonal events and features that are on display at all times on every page for the user to see. Despite it's consistent presence, I believe this may spur users to actively ignore these often unwarranted suggestions. Additionally, options to plan a reading list, update your profile on what you are reading, and a list of books in progress are also displayed on the same page. 
 ### Heuristic Evaluation
 Goodreads does a decent job of maintaining visibility of system status. Users know what tab they are on by checking the tab list on the left:
-#
+ <br /> 
 ![](bookshelf.png)
-#
-
+ <br /> 
 And looking for the grey text.
 This page does fall short in matching the system with the real world, however, because there are two symbols indicating some type of communication: there is an envelope for messaging, and message bubbles for discussion board. Both symbols are used interchangaeably to indicate messaging systems on other platforms, and it takes a bit of experience to tell what does what.
 <br /> 
@@ -34,19 +33,19 @@ The prevalence of the 'add book' button on the website also contributes to a lac
 Goodreads handles recognition well. Next to each category of book (read, unread, etc) there is a count indicating how many books are in the category. Users will know if the category has been successfully updated. 
  <br /> 
 The effeciency of use of Goodreads isn't necessarily bad; there are no tailored shortcuts because all navigation options are presented on the page, giving the user easy access to most actions while also crowding the space.
-#
+ <br /> 
 The primary violation is in regards to the heuristic of aesthetic and minimalist design. The page is flooded with extraneous and non-vital information. There are several seasonal events that could be allocated under one tab, as well as the option to plan, update, and list any reads.
-#
+ <br /> 
 Error recognition in implemented when the user tries to set the starting date of reading a book to before the finish date. The website notifies them as such:
-#
+ <br /> 
 ![](error.png)
-#
+ <br /> 
 Good reads does not provide good documentation, seemlying on account of the fact that much of the website is displayed plain in sigh on every page. Nevertheless, there are no intial directions on how to operate the platform, which, despite its transparency, is still quite difficult to navigate.
 ### Severity Ranking 
 3: Aesthetic and minimalist design. The website is in sore need of simplification. There is too much information on the page, and while the user has many options to choose from, this can confuse and distract user intention, and is also unsightly. The website would improve greatly with a more modular design, with only a few option a page, each option encapsulating further options.
-#
+ <br /> 
 2: The 'add book' feature violates user control and freedom and error prevention. When deep in browsing books, it is very irritating having to return to my shelf to remove accidentally added books, and is a significant detour in browsing for new books. 
-#
+ <br /> 
 1: Goodreads would benefit from proper documentation. The addition of guidelines would make an already straight foward website even easier to navigate.
 
 ## Velvetyne Page  
@@ -60,30 +59,30 @@ Despite it's appearance, Velvetyne is a decently navigatable website, despite it
 ### Heuristic Evaluation
 Velvetyne fails to maintain the visibility of system status in the few instances that it is need. Since the page is relative simple, there is not much that needs to be kept track of. In typical fashion, any button that is selected triggers an animation or a change in appearance indicating selection. For some selections, it is a strobe effect, for others it simply inverts the color:
 Perhaps it would be good to make the selection animation consistent among all buttons.
-# 
+ <br /> 
 As the website is not the type of page to be accessed by the masses, Velvetyne's match between the system and the real world is appropriate given the circumstances. There exists no excessively niche jargon, and the language is simply-put. The download button says 'download', etc.
-# 
+ <br /> 
 There is no specific feature that supports undo and redo; and the extent of it's implemetation is just that after viewing a text in full, one can return to the prior page at the same point in the catalogue as they were before. In that sense, scrolling through the list and testing the fonts in full can be tedious, as there isn't a quickview to see the entire typeface.
-#
+ <br /> 
 Within the website, Velvetyne follows very consistent layouts and operations. Each font is presented identically, with the same functions of download, view sample text, and view and full.
-#
+ <br /> 
 There are no measures taken for error prevention. When downloading a font, which can be confusing and convoluting, the user just presses the button, and then the file is downloaded. Additionally, when the same font is downloaded twice there is no indication that the user is creating a duplicate.
-#
+ <br /> 
 Velvetyne falls short in Recognition, particularly because one can only download and examine one font at time. It would be extremely helpful to have a feature that displays previously view fonts, or a 'bag' like feature where the user can gather all fonts of interest in one group to be examined comparatively. However, Velvetyne allows the user to customize example text for it to be displated across all fonts:
-#
+ <br /> 
 ![](mmdh150.png)
-#
+ <br /> 
 Again, the flexibility of the website would greatly increase with the addition of a feature that allowed the user to gather and compare fonts alongside each other. 
-#
+ <br /> 
 Velvetyne certainly does not adhere to minimalist guidelines, however this is deliberate. The page is very visually busy but in reality three things are presented: examples, fonts, and the top navigation bar. Improvements can be made to optimize the layout, but it really isn't as bad as it may seem.
-#
+ <br /> 
 Velvetyne offers no error recovery because there aren't many errors to make; at least there aren't any errors that are objectively wrong. Users may hit the wrong font or tab but there is no way for the website to identify it as mistake navigation.
-#
+ <br /> 
 Velvetyne could seriously benefit from thorough documentation with it's busy and complicated interface. There are no clear indicators of what is the font name and what is the example text and thus it is really hard to users to find out how to view the font in full text. Velvetyne also does not have a help page.
 ## Severity Ranking 
 3: Recognition need improvements. Make it so users do not need to memorize/open separate tabs to compare two texts of interest.
-#
+ <br /> 
 2: In terms of forgivenss, an undo redo-like solution could be implemented where the user looks at the font in a quickview module before proceeding to a full view so as to not immediately leave the browsing page.
-#
+ <br /> 
 1: Velvetyne is in need of a help page.
 
