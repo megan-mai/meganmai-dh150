@@ -21,10 +21,10 @@ This page does fall short in matching the system with the real world, however, b
 <br /> 
 ![](envelope.png)	
 ![](message.png)
-# 
+ <br /> 
 
 In terms of supporting undo and redo, readers are prone to accidentally adding book to their list due to high presence of 'add book' buttons. When a book is added, the user must go to an entirely separate page, relocate the book added, and then remove it from their's profile.
-# 
+ <br /> 
 ![](button1.png)
 ![](button2.png)
 #
