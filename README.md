@@ -15,6 +15,7 @@ Goodreads does a decent job of maintaining visibility of system status. Users kn
 #
 ![](bookshelf.png)
 #
+
 And looking for the grey text.
 This page does fall short in matching the system with the real world, however, because there are two symbols indicating some type of communication: there is an envelope for messaging, and message bubbles for discussion board. Both symbols are used interchangaeably to indicate messaging systems on other platforms, and it takes a bit of experience to tell what does what.
 #
