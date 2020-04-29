@@ -24,7 +24,7 @@ Megan Mai // DH 150 at UCLA // Cho // 04.29.20
 ### Research Results
 #### a. Contextual Inquiry Guide 
 Here's my [script](https://docs.google.com/document/d/1ibRPhQc83_ojc248kM7HRNp4z0dds-WDyWhyIKsvHmQ/edit)
-and my [transcription](https://docs.google.com/document/d/1j2PlfkN3TPi4AJiQkJ9Hocj36BZ2zTBq-5vLq3W9Z0A/edit) of the interview.
+and my [transcription](https://docs.google.com/document/d/1j2PlfkN3TPi4AJiQkJ9Hocj36BZ2zTBq-5vLq3W9Z0A/edit) of [this interview.](https://drive.google.com/file/d/1LnawFZDVa9tbMd-z94YV46IYkJhaxDa1/view?usp=sharing)
 #### b. User Data
 The user values cleanliness and minimal information (10:53):
 ###### "since the whole purpose of the website is to like present lots of information. The main issue is always gonna be too much going on at once like there’s no way to avoid having that much information on a website so then it's a matter of making it less confusing."
