@@ -26,15 +26,14 @@ Megan Mai // DH 150 at UCLA // Cho // 04.29.20
 Here's my [script](https://docs.google.com/document/d/1ibRPhQc83_ojc248kM7HRNp4z0dds-WDyWhyIKsvHmQ/edit)
 and my [transcription](https://docs.google.com/document/d/1j2PlfkN3TPi4AJiQkJ9Hocj36BZ2zTBq-5vLq3W9Z0A/edit) of the interview.
 #### b. User Data
-Things worth noting:
 The user values cleanliness and minimal information (10:53):
-###### "Um since the whole purpose of the website is to like present lots of information. The main issue is always gonna be too much going on at once like there’s no way to avoid having that much information on a website so then it's a matter of making it less confusing."
+###### "since the whole purpose of the website is to like present lots of information. The main issue is always gonna be too much going on at once like there’s no way to avoid having that much information on a website so then it's a matter of making it less confusing."
 (10:27):
-###### "Yeah I think if there were less tabs to open and less information all at once it would improve more"
+###### "I think if there were less tabs to open and less information all at once it would improve more"
 The user very quickly loses her patience (4:35):
-###### Um, It does. I’m very impatient and if I can’t find the class quickly I will lose interest very quickly. Especially if it is a class for fun.
+###### "I’m very impatient and if I can’t find the class quickly I will lose interest very quickly. Especially if it is a class for fun."
 The user does not consider social media to be relevant (5:24):
-###### Um, it doesn’t seem that important because there’s a lot other stuff on the page there’s a lot going on it’s very distracting. But I can see where to enroll. I’m not sure why there is a huge thing for social media. It ‘s bigger than the enroll buttons. Which there are a lot of.
+###### "it doesn’t seem that important because there’s a lot other stuff on the page there’s a lot going on it’s very distracting. But I can see where to enroll. I’m not sure why there is a huge thing for social media. It ‘s bigger than the enroll buttons. Which there are a lot of."
 ## Reflection
 There was a specific limitation as to who I would decide to test this interface on, which is the college student. I decided that someone of typical college age who is currently attending a university would be the ideal participant. Her insight was helpful in that she fell into the category of the target demographic of the service, but she was not very vocal in her interview, and it seemed as if she wasn't entirely eager to talk about the topic (this can be improved with the addition of a legitimate compensation).
 The generally looser format of contextual inquiry made the interview experience much less stunted and easy to conduct, however I fear my instinctual interjections may have swayed what my participant decided to express. Nonetheless, the participant and I seemed to have shared the same feelings about the website from the jump, so I can't imagine that I'd properly changed her mind. Overall, I would have approached the interview in a way that was more mindful of my position as a proctor and the importance of not inserting myself into the conversation.
