@@ -21,4 +21,4 @@ Megan Mai DH 150
 
 - Isa Morris, Persona #3
 
-![3](isa%20morris.png)
+![3](issa%20morris.png)
