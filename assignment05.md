@@ -13,12 +13,12 @@ Megan Mai DH 150
 
 - Hannah Smtih, Persona #1
 
-![1](https://user-images.githubusercontent.com/59623164/74213187-fdf2e180-4c4c-11ea-8740-87e4dd5d6ba1.png)
+![1](hanna%20smith.png)
 
 - Alice Chen, Persona #2
 
-![2](https://user-images.githubusercontent.com/59623164/74213331-85405500-4c4d-11ea-92c3-ffd7f800e184.png)
+![2](erica%20chen.png)
 
 - Isa Morris, Persona #3
 
-![3](https://user-images.githubusercontent.com/59623164/74213368-b28d0300-4c4d-11ea-8691-e5908d2d99d8.png)
+![3](isa%20morris.png)
