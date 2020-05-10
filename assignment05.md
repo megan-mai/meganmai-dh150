@@ -13,12 +13,12 @@ Megan Mai DH 150
 
 - Hannah Smtih, Persona #1
 
-![1](hanna%20smith.png)
+![1](Screen%20Shot%202020-05-10%20at%203.27.13%20PM.png)
 
 - Alice Chen, Persona #2
 
-![2](erica%20chen.png)
+![2](Screen%20Shot%202020-05-10%20at%203.27.20%20PM.png)
 
 - Isa Morris, Persona #3
 
-![3](issa%20morris.png)
+![3](Screen%20Shot%202020-05-10%20at%203.26.56%20PM.png)
