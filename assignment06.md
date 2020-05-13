@@ -24,4 +24,4 @@
 
 --------------------
 **Notes**
-
+###### The prototype begins at the homepage of the website, which is caused for 
