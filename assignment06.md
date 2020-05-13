@@ -24,4 +24,8 @@
 
 --------------------
 **Notes**
-###### The prototype begins at the homepage of the website, which is caused for 
+###### The prototype begins at the homepage of the website, which is cause for the bulk of the issues encountered while running trials with users. The main issue was the relation between terms and differentiating between the two at face value. Users found issue with the terms 'apply' and 'enroll', taking it to be synonomous or too close in meaning to be listed next to each other. My prototype minimized the options on the page but did not rid it of close or conjoined terms. On the profile set-up page, and adapted the carousel layout to be a scroll down layout, which seemed to worsen the length and exaggerate the number of steps needed to create a profile. 
+**Overall, the main issues were:**
+1. Overcrowded and over extended pages: The profile set up scroll downwards for too long; can have trouble keeping of track of where they are. Better suited for a page by page format.
+2. Similar and confusing terminology: options presented are confusing and need to be revised for clarity OR consolidated into one option, such as apply -> already applied? enroll in classes now.
+
