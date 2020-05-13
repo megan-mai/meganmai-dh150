@@ -20,7 +20,7 @@
 
 ![wireframes](wireframe.jpg)
 ![wireflows](wireflows.jpg)
-![edits](edits.jpg)
+![edits](edits2.jpg)
 
 --------------------
 **Notes**
