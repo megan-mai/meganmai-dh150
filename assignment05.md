@@ -43,7 +43,7 @@ Megan Mai DH 150
 
 - Toni Wong is a first generation college student studying computer science. She is not very familiar with the landscape of online enrollment, but is considerably tech savvy. She has enrolled in the middle college program through her high school and just needs to register as a student. Since she has never applied to a college program, and has no family memebers to help her with this, she needs as much assistance and descriptiveness as possible when enrolling online.
 
--Toni accesses the website from her personal laptop at home. She clicks the enroll button at the center and finds herself at the enrollmetn steps page. She can't tell if this page is for traditional college students or if it applies to her as well. After a frustrating amount of time spent searching, she finds information on middle college students on the fourth notch of the carousel hidden by a drop down bar.
+- Toni accesses the website from her personal laptop at home. She clicks the enroll button at the center and finds herself at the enrollmetn steps page. She can't tell if this page is for traditional college students or if it applies to her as well. After a frustrating amount of time spent searching, she finds information on middle college students on the fourth notch of the carousel hidden by a drop down bar.
 
 
 ![issa](toniFINALmap.png)
