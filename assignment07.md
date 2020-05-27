@@ -13,6 +13,9 @@ undergraduate credits). I based my initial low-fidelity prototype around the fee
 as the primary issue of the prototype. I implemented these ideas by nesting options within eachother instead of presenting all possible routes on the same page, and consolidated the terms 'enroll' and 'apply' under the same 'enroll' button and link, after concluding that enrollment would imply application. All of these changes were considered during the process of developing my high-fidelity prototype in adobe xd.
 
 ### Tasks
-> 1) (As a new student) reach the application form.
-> 2) (As a high school student) reach the middle college information page
-> 3) (As a returning student) reach the classes catalogue (not to be confused with the pdf of classes, but rather the page from which one can both learn about and enroll in a class).
+> As a new student
+1)reach the application form.
+> As a high school student
+2)reach the middle college information page
+> As a returning student 
+3)reach the classes catalogue (not to be confused with the pdf of classes, but rather the page from which one can both learn about and enroll in a class).
