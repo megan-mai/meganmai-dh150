@@ -14,8 +14,8 @@ as the primary issue of the prototype. I implemented these ideas by nesting opti
 
 ### Tasks
 > As a new student
-1)reach the application form.
+1) reach the application form.
 > As a high school student
-2)reach the middle college information page
+2) reach the middle college information page
 > As a returning student 
-3)reach the classes catalogue (not to be confused with the pdf of classes, but rather the page from which one can both learn about and enroll in a class).
+3) reach the classes catalogue (not to be confused with the pdf of classes, but rather the page from which one can both learn about and enroll in a class).
