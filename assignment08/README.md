@@ -5,19 +5,19 @@ The purpose of this project is to elevate the most relevant features of a colleg
 
 ### Design statement
 Whether it be to search for classes for already registered students, or to apply to become a student, or to enroll in a high school level program, the enrollment feature acts as the mainline of the college page, and it is important that it is supported elegantly and is simple to navigate. The changes made to this project are inspired by feedback garnered from iterative user testing. The origin of the project stems from independent complaints from peers hailing from a considerably large and relevant user base (students attending nearby university in need of completing undergraduate credits). I based my initial low-fidelity prototype around the feedback, which ultimately cited complexity and data overstimulation on the enrollment page as the primary issue of the prototype. I implemented these ideas by nesting options within eachother instead of presenting all possible routes on the same page, and consolidated the terms 'enroll' and 'apply' under the same 'enroll' button and link, after concluding that enrollment would imply application. All of these changes were considered during the process of developing my high-fidelity prototype in adobe xd.
-4) Competitor analysis [assignment01 & 02]:
+### Competitor analysis [assignment01 & 02]:
 The college enrollment and application system has long since switched entirely to a digital platform, however the varying systems of different schools differ greatly. Among large instituions like the UC systems, or smaller ones, like school districts, one will find that some modes of organization are far more effective in encouraging and easing the strain of class enrollment.
-5) User research [contextual inquiry, assignment04]:
+### User research [contextual inquiry, assignment04]:
 I conducted a series of video interviews among different user demographics (high school, college, adult) and concluded that the primary issue with the website was excessive information on the page and cluttered, at time repetive formatting.
 Summary and link to your assignment folder
-6) UX storytelling [persona+scenario, assignment05]
+### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
-7) Wireframe and graphic design element variation [assignment06 + part of 07]
-8) Low-fidelity prototype (wireflow, assignment06)
+### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-9) High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
-10) Optional evaluation and revision history 
+### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-11) Pitch video 
-12) Conclusion: what did you learn throughout the process?
+### Pitch video 
+### Conclusion: what did you learn throughout the process?
