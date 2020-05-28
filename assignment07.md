@@ -13,7 +13,8 @@ undergraduate credits). I based my initial low-fidelity prototype around the fee
 as the primary issue of the prototype. I implemented these ideas by nesting options within eachother instead of presenting all possible routes on the same page, and consolidated the terms 'enroll' and 'apply' under the same 'enroll' button and link, after concluding that enrollment would imply application. All of these changes were considered during the process of developing my high-fidelity prototype in adobe xd.
 
 ### Tasks
-1) (As a new student) reach the application form.
-> 
+1) Reach the application form.
+> In this task, the associated user persona, Ruby, is a new student who has not yet registered as a student and needs to access the application form. She opens the home page of the Berkeley City College website, and sees that the button to enroll, but not apply, is on front and center on the home page. Although this is not quite synonomous to application, there is no other term on the page even remotely related to application process, so she opts to click on the enroll button. She is not particular about this, and assumes enroll encapsulates apply as well. She is redirected to the enroll page, which is a carousel of cards each symbolizing a "step" in the process to application, and subsequently enrollment in classes. Each "card" contains a short to-do list. On the first card, below a welcome letter from the president, is a link to the application form for the CC school district.
 2) (As a high school student) reach the middle college information page
+> 
 3) (As a returning student) reach the classes catalogue (not to be confused with the pdf of classes, but rather the page from which one can both learn about and enroll in a class).
