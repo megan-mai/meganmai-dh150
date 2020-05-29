@@ -1,5 +1,8 @@
 # Assignment 07: High Fideliy Prototype
 Megan Mai / DH 150 / Spring '20
+-----------------
+Prototype: 
+-----------------
 ### Description
 The purpose of this project is to elevate the most relevant features of a college homepage. The vast majority of users visiting
 the page are students or prospective students, and as such, one of the primary features to be prioritized is a the enroll-
@@ -19,3 +22,16 @@ as the primary issue of the prototype. I implemented these ideas by nesting opti
 > In this task, the associated user persona, Toni, is a high school student looking to enroll in the middle college program offered at the school. She begins on the home page of the website, and selects the enroll button on the center of the page as before. She is directed to an enrollment page on which is the carousel of cards. On the first card, under the link to the welcome letter, there is a link for application. From there, she selects the middle college option, leading her to enrollment and subsequently further steps with pages that operate in conjunction with her highschool.
 3) Reach the classes catalogue (not to be confused with the pdf of classes, but rather the page from which one can both learn about and enroll in a class). 
 > The associated user Persona, Alice, is a student at UC Berkeley. She already has an account with BCC, and knows to click on the enroll button on the homepage already. From there, she finds, on the second or third card on the carousel, an option to enroll in classes- something that is only available to already registered students. The application and welcome cards are out of boundaries for her selection, so she knows that they are not relevant actions.
+### Prototype Design
+#### Representative Screen Designs
+#### Wireflow with Graphic Designs
+------------------
+### Design Motivation
+> Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
+#### Color 
+#### Typography 
+------------------
+### Design Process/Revision
+### User Testing 
+#### Cognitive Walkthrough
+#### Impression Test
