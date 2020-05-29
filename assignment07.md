@@ -1,9 +1,7 @@
 # Assignment 07: High Fideliy Prototype
 Megan Mai / DH 150 / Spring '20
-
 -----------------
 Prototype: 
-
 -----------------
 ### Description
 The purpose of this project is to elevate the most relevant features of a college homepage. The vast majority of users visiting
@@ -33,6 +31,7 @@ stems from independent complaints from peers hailing from a considerably large a
 #### Typography 
 ------------------
 ### Design Process/Revision
+------------------
 ### User Testing 
 #### Cognitive Walkthrough
 #### Impression Test
