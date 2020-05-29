@@ -1,7 +1,9 @@
 # Assignment 07: High Fideliy Prototype
 Megan Mai / DH 150 / Spring '20
+
 -----------------
 Prototype: 
+
 -----------------
 ### Description
 The purpose of this project is to elevate the most relevant features of a college homepage. The vast majority of users visiting
@@ -11,9 +13,8 @@ page due to both its complexity and its relevance. Subsequently important featur
 in a high school level program, the enrollment feature acts as the mainline of the college page, and it is important that 
 it is supported elegantly and is simple to navigate. 
 The changes made to this project are inspired by feedback garnered from iterative user testing. The origin of the project 
-stems from independent complaints from peers hailing from a considerably large and relevant user base (students attending nearby university in need of completing 
-undergraduate credits). I based my initial low-fidelity prototype around the feedback, which ultimately cited complexity and data overstimulation on the enrollment page
-as the primary issue of the prototype. I implemented these ideas by nesting options within eachother instead of presenting all possible routes on the same page, and consolidated the terms 'enroll' and 'apply' under the same 'enroll' button and link, after concluding that enrollment would imply application. All of these changes were considered during the process of developing my high-fidelity prototype in adobe xd.
+stems from independent complaints from peers hailing from a considerably large and relevant user base (students attending nearby university in need of completing undergraduate credits). I based my initial low-fidelity prototype around the feedback, which ultimately cited complexity and data overstimulation on the enrollment page as the primary issue of the prototype. I implemented these ideas by nesting options within eachother instead of presenting all possible routes on the same page, and consolidated the terms 'enroll' and 'apply' under the same 'enroll' button and link, after concluding that enrollment would imply application. All of these changes were considered during the process of developing my high-fidelity prototype in adobe xd.
+
 ---------------------
 ### Tasks
 1) Reach the application form.
