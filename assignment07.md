@@ -1,5 +1,5 @@
 # Assignment 07: High Fideliy Prototype
-Megan Mai / DH 150 / Spring '20
+***Megan Mai / DH 150 / Spring '20***
 Prototype: 
 ### Description
 - The purpose of this project is to elevate the most relevant features of a college homepage. The vast majority of users visiting
