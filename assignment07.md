@@ -25,16 +25,23 @@ The changes made to this project are inspired by feedback garnered from iterativ
 ![2](assign7.png)
 ![2](gonnathorwup.png)
 #### Wireflow with Graphic Designs
-![2](representaion.png)
+![2](representation.png)
 ![2](wireflow.png)
 ------------------
 ### Design Motivation
-> Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
-#### Color 
-#### Typography 
+> I decided to at least maintain the old color scheme of the website. I assumed that these were the school colors (there's no source online that confirms this) so I wanted to make sure the identity of the website maintained intact. I also maintained the card-like navigation offered by the webiste's enrollment, but slightly enlarged them and tried to add some depth and modernity by introducing partially transluscent shapes into the design. I wanted the user to feel as if they are in the same 'place' the entire time they are filling out the enrollment checklist, to mitigate the feeling of being lost or confused by this really long process. Instead, my design aims to make the options and links appear to be the mobile items.  
+I also wanted to clear up the home page, so I made a collapsable news tab that is fixed while you scroll.
+Since my overall intention was to create a singular path to guide the user with, I didn't want to change the interface between pages too much. I think a big flaw of the original website is that it whisks the user off to too many unfamiliar pages that they then must learn to navigate. I wanted the switch between each artboard to be minute.
 ------------------
 ### Design Process/Revision
+> I adjusted the opacity and tone my font and backgrounds using a contrast checker online. Since I couldn't use the google chrome tool, I manually entered the hexcodes of the some text/background pairings.
+![2](WCAG.png)
+![2](ok.png)
+It for the most part passed, however, it is text laid on a photo background. So certain light areas intersect with the text as such:
+![2](bad.png)
+![2](WCAG3.png)
+While other areas perform much better 
+![2](wacg2.png)
 ------------------
 ### User Testing 
-#### Cognitive Walkthrough
 #### Impression Test
