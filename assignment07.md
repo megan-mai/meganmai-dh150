@@ -24,6 +24,7 @@ The changes made to this project are inspired by feedback garnered from iterativ
 ![2](assgin7.png)
 ![2](assign7.png)
 ![2](gonnathorwup.png)
+![2](dropdownnews.png)
 #### Wireflow with Graphic Designs
 ![2](representation.png)
 ![2](wireflow.png)
