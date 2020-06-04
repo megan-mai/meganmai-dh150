@@ -1,4 +1,5 @@
 # Assignment 08: Pitch
+## Megan Mai//DH 150//Cho
 *My name is Megan Mai, and my project is the simplification of the Berkeley City College.*
 ### Introduction:
 The aim of my project is to minimalize the BCC website. While the technical uses for the website vary greatly, I identified three features I believe to take prescendence over all the others: navigation to enrollment page, news, and navigating the resources board.
