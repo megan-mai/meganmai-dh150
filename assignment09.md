@@ -1,30 +1,30 @@
 # Assignment 08: Pitch
 *My name is Megan Mai, and my project is the simplification of the Berkeley City College.*
-### Introduction
+### Introduction:
 The aim of my project is to minimalize the BCC website. While the technical uses for the website vary greatly, I identified three features I believe to take prescendence over all the others: navigation to enrollment page, news, and navigating the resources board.
-### Design Statement
+### Design Statement:
 The primary issue with the colleges' website is clutter and excessive information. More specifically, however, the website presented excessive amounts of options on each page at a time. Consolidating options would greatly benefit the user's experience. During user testing, the subject was rushed and frequently overlooked the things she needed to see because she didn't know where to begin, and was intimidated by the density of the information. For the more patient, information overload may not be harmful. But certainly simplifying the process would do no harm to either party.
 Ultimately, I wanted to streamline the user's navigation; so instead of letting the user traverse a page filled with all features possible, I wanted to create an experience where users are guided through a process that intuitively provides the most relevant navigation options. This way, the user has a slightly tailored experience, and seldom is led astray in the process of attempting to find something on the page.
-### Competitor Analysis
+### Competitor Analysis:
 The [homepage of the website](https://www.berkeleycitycollege.edu/wp/) is quite busy. It is partitioned into several sections, with a header and two banners stacked atop each other, and then three more sections, each containing information and options about social media, school resources, as well as other categorically indistinguishable links. At the bottom, the page abides by a design standard and provides contact informaton and additional navigational options; like a business card. There are many paths to travel down for the user, and if one opens the page with intention of finding something, they are easily distracted. 
 Most prominently, the page violates the tenet of minimalism and aesthetic design. The website is arguably unsightly, with lots of graphic action and large, bold text competeing for attention presented in a way that is unsubtle and excessive. By contrast, and in part due to this pitfall, this means the website excels in the principle of recognition rather than recall. The user rarely has to memorize information when it is all laid out for them. 
 The enrollment page uses card-like spreads to section off the tasks needed or reccomended to be completed during enrollment. This somewhat bears a real-life resemblance to the real world, where lists are sectioned onto index cards or pieces of paper. The website also offers minimal user flexibility. It tailors actions to whether the user is registered and logged in versus when they are logged out or a new student.
-### User research (contextural inquiry):
+### User research(contextural inquiry):
 The subject was a student at local university with a preexisting account, but no experience attempting to enroll. I tasked her with finding her way to the enroll page, which was qualified by a page where she could press a button that added a class to her schedule. I noted during testing that the subject was very impatient and rushed, rapidly flicking from top to bottom of the page when she didn't immediately find what she was looking for. She was very eager to click links and did not spend much time figuring out whether or not the label she had selected would actually lead to the results she wanted. As such, the plethora of information on the page did not serve her well, as she spent much time clicking around the wrong areas and then backtracking.
 #### [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment04.md)
-### UX storytelling [persona+scenario, assignment05]
+### UX storytelling:
 Summary and link to your assignment folder
 I created three associated user personas that embodied most user types typical to the website. This included a Toni, high school student looking to enroll in a middle college program, Ruby, a traditional college freshman enrolling to transfer in two years, and Alice, an already registered univeristy student looking to transfer credits. They did not exercise all the tasks I intended on revising because the news and student resource features are universal and do not vary by user, whereas enrollment may require slight tweaks based on the type of user,
 #### [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment05.md)
-### Wireframe and graphic design element variation
+### Wireframe and graphic design element variation:
 See my Low-Fidelity prototype [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
 and graphic design ideation [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment07.md).
-### Low-fidelity prototype (wireflow)
+### Low-fidelity prototype (wireflow):
 My Low-Fidelity prototype does not really resemble the final product; as once the project was translated onto a digital platform, it was much easier to approximate screen space efficiency and see from a user's perspective. Nonetheless, my low fidelity prototype still abides by the overarching guidelines of simplication and consolidation I had established prior to designing.
 #### [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
-### High-fidelity prototype (functional/interactive prototype)
+### High-fidelity prototype (functional/interactive prototype):
 My [High-Fidelity prototype](https://xd.adobe.com/view/14002411-e050-41c9-5051-3215fa9dbe57-6231/) appears to only distantly resemble the original website, however I tried to maintain the original structure of the website while tucking information away, which resulted in a much more different looking interface. I maintained the original color scheme of the website, and adapted the logo in the left corner as a home directory, and also tried to relay the information the website seemed to prioritize, like online class resources and information on the current pandemic, at the top of the page. 
 ### Pitch video [update the video after recording your presentation]
 > 
-### Conclusion 
+### Conclusion: 
 In conclusion, I learned that the process of UX design is much more research-oriented than I had assumed and now understand the value of external input. I also began to see the boundaries of what is considered UX. When fixating too closely to aesthetic, I understand that I can be accidentally roaming into UI territory. I selected my project based on a very quick first impression of the homepage, which seemed to be lacking (or the opposite) in the visual department, but encountered many issues later down the line about what exactly to address in the project because it, in my eyes, was rampant with issues. I knew as much as to fix the visual layout, but when the main enemy of efficiency was the page incessantly redirecting to other pages- like the county website, or the state wide one, or the district wide website, all interwoven into an already confusing interface, I had a hard time distinguishing the design issues from the systemic issues. I eventually concluded that the problems that pertained to my website of choice had to do with navigation rather than the features themselves. For example, the issue wasn't the enrollment feaure itself but rather trying to find my way to it.
