@@ -11,17 +11,17 @@ Most prominently, the page violates the tenet of minimalism and aesthetic design
 The enrollment page uses card-like spreads to section off the tasks needed or reccomended to be completed during enrollment. This somewhat bears a real-life resemblance to the real world, where lists are sectioned onto index cards or pieces of paper. The website also offers minimal user flexibility. It tailors actions to whether the user is registered and logged in versus when they are logged out or a new student.
 ### User research (contextural inquiry):
 The subject was a student at local university with a preexisting account, but no experience attempting to enroll. I tasked her with finding her way to the enroll page, which was qualified by a page where she could press a button that added a class to her schedule. I noted during testing that the subject was very impatient and rushed, rapidly flicking from top to bottom of the page when she didn't immediately find what she was looking for. She was very eager to click links and did not spend much time figuring out whether or not the label she had selected would actually lead to the results she wanted. As such, the plethora of information on the page did not serve her well, as she spent much time clicking around the wrong areas and then backtracking.
-[Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment04.md)
+#### [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment04.md)
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 I created three associated user personas that embodied most user types typical to the website. This included a Toni, high school student looking to enroll in a middle college program, Ruby, a traditional college freshman enrolling to transfer in two years, and Alice, an already registered univeristy student looking to transfer credits. They did not exercise all the tasks I intended on revising because the news and student resource features are universal and do not vary by user, whereas enrollment may require slight tweaks based on the type of user,
-[Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment05.md)
+#### [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment05.md)
 ### Wireframe and graphic design element variation
 See my Low-Fidelity prototype [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
-and graphic design ideation [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment07.md)
+and graphic design ideation [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment07.md).
 ### Low-fidelity prototype (wireflow)
 My Low-Fidelity prototype does not really resemble the final product; as once the project was translated onto a digital platform, it was much easier to approximate screen space efficiency and see from a user's perspective. Nonetheless, my low fidelity prototype still abides by the overarching guidelines of simplication and consolidation I had established prior to designing.
-[Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
+#### [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
 ### High-fidelity prototype (functional/interactive prototype)
 My [High-Fidelity prototype](https://xd.adobe.com/view/14002411-e050-41c9-5051-3215fa9dbe57-6231/) appears to only distantly resemble the original website, however I tried to maintain the original structure of the website while tucking information away, which resulted in a much more different looking interface. I maintained the original color scheme of the website, and adapted the logo in the left corner as a home directory, and also tried to relay the information the website seemed to prioritize, like online class resources and information on the current pandemic, at the top of the page. 
 ### Pitch video [update the video after recording your presentation]
