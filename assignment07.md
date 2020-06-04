@@ -44,7 +44,7 @@ It for the most part passed, however, it is text laid on a photo background. So 
 While other areas perform much better 
 # ![2](wacg2.png)
 # ![2](good.png)
-In addition to the Impression Test, I did get input on the contrast of the text on the photo background, everyone (of the small sample I drew) agreed that the text was at LEAST legible.
+In addition to the Impression Test, I did get input on the contrast of the text on the photo background, everyone (of the small sample I asked) agreed that the text was at LEAST legible.
 ------------------
 ### User Testing 
 #### Impression Test
