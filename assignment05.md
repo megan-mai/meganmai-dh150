@@ -5,7 +5,8 @@ Megan Mai DH 150
 For the main page for the city college of Berkeley, part of Peralta school district:
 1)  The home page would contain 'enroll' buttons and links dedicated to registration for classes. 
 - Button should lead to a singular page that offers both enrollment + application options for people of varying stages of registration.
-2) The registration process page should have a to-do list format, where users are aware of what stage of completion they are at. Users can attribute inaccessibility to something other than not having completed the required steps.
+2) The registration process page should have a to-do list format, where users are aware of what stage of completion they are at. 
+- Users can attribute inaccessibility to something other than not having completed the required steps.
 3) Immediate access to important news.
 - School closures, holidays, or schedule changes are immediately apparent on the home page but also does not obscur or interfere with the layout. 
 4) Clean and simple interface for users of varying experience
