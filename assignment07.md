@@ -1,6 +1,6 @@
 # Assignment 07: High Fideliy Prototype
 ***Megan Mai / DH 150 / Spring '20***
-# Prototype: 
+##### [High-Fidelity Prototype](https://xd.adobe.com/view/14002411-e050-41c9-5051-3215fa9dbe57-6231/)
 ### Description
 - The purpose of this project is to elevate the most relevant features of a college homepage. The vast majority of users visiting
 the page are students or prospective students, and as such, one of the primary features to be prioritized is a the enroll-
@@ -42,6 +42,12 @@ It for the most part passed, however, it is text laid on a photo background. So 
 # ![2](WCAG3.png)
 While other areas perform much better 
 # ![2](wacg2.png)
+# ![2](good.png)
 ------------------
 ### User Testing 
 #### Impression Test
+The color scheme is not vibrant (I followed up later making sure that this observation did not have anything to do with contrast and legibility).
+###### "This is a very *dull* and *dark* website, but the aesthetic brand is very *consistent*. I can tell this is all from the same company or institution."
+(when prompted to offer some adjectives)
+###### "This is very *modern* and minimalist looking."
+###### "It's not bad but it's a little *boring*. The colors are so *dull* and the whole website looks *barren*"
