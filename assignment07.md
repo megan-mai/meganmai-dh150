@@ -39,8 +39,8 @@ Since my overall intention was to create a singular path to guide the user with,
 # ![2](WCAG.png)
 # ![2](ok.png)
 It for the most part passed, however, it is text laid on a photo background. So certain light areas intersect with the text as such:
-# ![2](bad.png)
 # ![2](WCAG3.png)
+# ![2](bad.png)
 While other areas perform much better 
 # ![2](wacg2.png)
 # ![2](good.png)
@@ -53,3 +53,10 @@ The color scheme is not vibrant (I followed up later making sure that this obser
 (when prompted to offer some adjectives)
 ###### "This is very *modern* and minimalist looking."
 ###### "It's not bad but it's a little *boring*. The colors are so *dull* and the whole website looks *barren*"
+#### Individual Cognitive Walkthrough
+(I was not here to do this activity in a group so I did it from the perspective of a user)
+Off the bat it is pretty clear, if I have a particular motivation, that I do not have many avenues to travel down (cannot quite tell if this is good or not). If I am looking to sign up for a class, it is quite obvious that I should click the enroll button because nothing else on the page even comes close to implying as such. I wonder what messages having two enroll options would send. Would a user believe that they may lead to two different pages? Would anyone even click on the top one when the center one is so blatantly apparent? Do there exist people who look at the top menu bar first as an instinct (I'd believe it)? 
+I am taken to the enrollment page, which is a row of four cards, each signifying a larger step in the process of registration. On the 'cards' are laundry lists of links; when I click on one and "complete" it, it fades, indicating that it has been seen already. Despite this, I can still revisit it. Does the semi transparent text deter people from rereading the text? Is this such a bad thing- do people need to read the president's letter more than once? Or does this help guide people by explicitly showing their process?
+### Reflection 
+I think I will try to make the website more lively without sacrificing its professionalism. I kept the colors somber and "boring" because I fear that the website will be too "fun" for a public institution. I cannot tell if being boring is simply a normal feature of instituional websites or if there is a way to fix this issue without making it look silly. I also realize that I am attempting to linearize a very complicated and arduous process. It maybe is not as easy to simplify college registration as I orginally thought, and am realizing many of the features I believed to be second priority may actually play a bigger role in the navigation of the website than I thought.
+
