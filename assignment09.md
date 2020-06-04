@@ -18,7 +18,7 @@ I created three associated user personas that embodied most user types typical t
 [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment05.md)
 ### Wireframe and graphic design element variation
 See my Low-Fidelity prototype [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
-And graphic design ideation [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment07.md)
+and graphic design ideation [here](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment07.md)
 ### Low-fidelity prototype (wireflow)
 My Low-Fidelity prototype does not really resemble the final product; as once the project was translated onto a digital platform, it was much easier to approximate screen space efficiency and see from a user's perspective. Nonetheless, my low fidelity prototype still abides by the overarching guidelines of simplication and consolidation I had established prior to designing.
 [Read more](https://github.com/mmai100000/meganmai-dh150/blob/master/assignment06.md)
