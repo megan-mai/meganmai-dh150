@@ -36,12 +36,12 @@ Since my overall intention was to create a singular path to guide the user with,
 ### Design Process/Revision
 > I adjusted the opacity and tone my font and backgrounds using a contrast checker online. Since I couldn't use the google chrome tool, I manually entered the hexcodes of the some text/background pairings.
 # ![2](WCAG.png)
-![2](ok.png)
+# ![2](ok.png)
 It for the most part passed, however, it is text laid on a photo background. So certain light areas intersect with the text as such:
-![2](bad.png)
-![2](WCAG3.png)
+# ![2](bad.png)
+# ![2](WCAG3.png)
 While other areas perform much better 
-![2](wacg2.png)
+# ![2](wacg2.png)
 ------------------
 ### User Testing 
 #### Impression Test
