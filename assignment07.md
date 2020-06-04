@@ -21,7 +21,6 @@ The changes made to this project are inspired by feedback garnered from iterativ
 > The associated user Persona, Alice, is a student at UC Berkeley. She already has an account with BCC, and knows to click on the enroll button on the homepage already. From there, she finds, on the second or third card on the carousel, an option to enroll in classes- something that is only available to already registered students. The application and welcome cards are out of boundaries for her selection, so she knows that they are not relevant actions.
 ### Prototype Design
 #### Representative Screen Designs
-                                        v right below this is the homepage
 ![2](assgin7.png)
 ![2](assign7.png)
 ![2](gonnathorwup.png)
